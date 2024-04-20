@@ -4,7 +4,7 @@ Este repositorio 🗂️ contiene un notebook📜 desarrollado en <img src ='htt
 MapLibre es un proyecto de código abierto que se **nacio un 9 de diciembre del 2020 como un fork del proyecto Mapbox GL JS 1.13**.
 
 <div align = 'center'> 
- <img src='img/born.png' width=300 align='center'/>
+ <img src='img/born.png' width=500 align='center'/>
 </div>
 
 📝📃🛑: [Clic para ver el memorandum](https://docs.google.com/document/d/1UB8VJ6_vMD9Zxfem7cunwa_G-hXo_ZRY1IeF5iGlh4w/view
