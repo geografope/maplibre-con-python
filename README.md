@@ -1,6 +1,6 @@
 <img src= 'img/banner.jpg'/>
-Este repositorio 🗂️ contiene un notebook📜 desarrollado en <img src ='https://raw.githubusercontent.com/geografope/recursos/main/python.svg' width=18 align='center'/>que te facilitirá la creación de visualizaciones web de datos espaciales através de la integración de los vector tiles disponibles en MapLibre junto con el ecosistema espacial de python.
 
+Este repositorio 🗂️ contiene un notebook📜 desarrollado en <img src='https://raw.githubusercontent.com/geografope/recursos/main/python.svg' width=18 align='center'/>que te facilitirá la creación de visualizaciones web de datos espaciales através de la integración de los vector tiles disponibles en MapLibre junto con el ecosistema espacial de python.
 MapLibre es un proyecto de código abierto que se **nacio un 9 de diciembre del 2020 como un fork del proyecto Mapbox GL JS 1.13**.
 
 <table>
