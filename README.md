@@ -35,8 +35,6 @@ Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de
 
 - *Netek R, Masopust J, Pavlicek F, Pechanec V. Performance Testing on Vector vs. Raster Map Tiles—Comparative Study on Load Metrics. ISPRS International Journal of Geo-Information. 2020; 9(2):101. https://doi.org/10.3390/ijgi9020101*
 
-- *Chen L, Liu Z, Ma M. Interactive Visualization of Geographic Vector Big Data Based on Viewport Generalization Model. Applied Sciences. 2022; 12(15):7710. https://doi.org/10.3390/app12157710*
-
 - *eoda GmbH, 2023,py-maplibregl, https://github.com/eodaGmbH/py-maplibregl*
 
 - *Mapbox. (s.f.). Introducción a los vectores de teselas. Mapbox. Recuperado de https://docs.mapbox.com/data/tilesets/guides/vector-tiles-introduction/*
