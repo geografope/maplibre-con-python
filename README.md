@@ -17,13 +17,15 @@ Para este video usaremos las siguientes librerias: 👇
 
 - geopandas: Librería que permite trabajar datos espaciales de tipo vector en python.
 
+- ipywidgets: Librería para configurar el entorno de Colab para la visualización web.
+
 Todo el proceso desarrollado esta explicado paso a paso en el siguiente video de Youtube 🔴🎞️🎥🎬. Watch the video
 
 ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de codigo abierto. 🌟🌍👇
 
-<!---
-[![Watch the video](https://img.youtube.com/vi/L0g2Zjio6Wk/0.jpg)](https://youtu.be/L0g2Zjio6Wk?si=1sdgsVWDp2r4qAQP)
---->
+
+[![Watch the video](https://img.youtube.com/vi/lV5CYu_-iys/0.jpg)](https://youtu.be/lV5CYu_-iys?si=dY0vNL79Is4GffYB)
+
 
 - <img src='https://raw.githubusercontent.com/geografope/recursos/d7be118ef25f46cb6f748d623012bcc9c8e76db6/youtube.svg' width=20 align='center'> https://www.youtube.com/@geografope
 
